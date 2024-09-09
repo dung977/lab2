@@ -1,0 +1,40 @@
+body{
+    font-family: Arial;
+    background-color: #504c3df0;
+    color: white;
+}
+h1{
+    color: #94bdf3;
+    font-size: 2.66em;
+}
+p span{
+    color: yellow;
+}
+li, span, p, em{
+    font-size: 12px;
+}
+li{
+    padding: 2px;
+}
+li span{
+    text-decoration: underline;
+    color: red;
+}
+.head{
+    border-bottom: 1px solid #888776;
+    padding-bottom: 15px;
+}
+.highlight{
+    font-size: 18px;
+    color: #94bdf3;
+    font-weight: bold;
+}
+.mymood{
+    display: flex;
+}
+.happy{
+    width: 50%;
+}
+.sad{
+    width: 50%;
+}
