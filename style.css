@@ -44,4 +44,5 @@ li span{
 }
 div.certi{
     display: flex;
+    align-items: center;
 }
