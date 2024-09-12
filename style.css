@@ -39,3 +39,7 @@ li span{
 .sad{
     width: 50%;
 }
+.sad img, .happy img{
+    width: 75%;
+    height: auto;
+}
